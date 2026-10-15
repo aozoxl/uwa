@@ -6,6 +6,8 @@
 
 ![澳大利亚西澳大学毕业证样本（澳洲uwa学位文凭证书样式展示）](https://www.cererfi.com/uploads/img1/20261012/6acbb2e0ab7fc.jpg)
 
+💡 *图片来源声明：该图源自 [https://www.cererfi.com/auzhou/65.html](https://www.cererfi.com/auzhou/65.html) 未经授权禁止用于商业用途。*
+
 ---
 
 ## 2026版西澳大学学位证书：古典几何与现代安全工艺的视觉平衡
