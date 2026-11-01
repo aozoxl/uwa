@@ -4,19 +4,13 @@
 
 对于许多雇主和学术背景调查机构而言，深入了解西澳大学的毕业证样式特征，不仅能直观感受到这所百年名校的视觉设计语言，更可洞察其背后的专业特长。
 
-![澳大利亚西澳大学毕业证样本（澳洲uwa学位文凭证书样式展示）](https://www.cererfi.com/uploads/img1/20261012/6acbb2e0ab7fc.jpg)
-
-💡 *图片来源声明：该图源自 [https://www.cererfi.com/auzhou/65.html](https://www.cererfi.com/auzhou/65.html) 未经授权禁止用于商业用途。*
-
----
+<img width="546" height="800" alt="澳大利亚西澳大学毕业证样本及学位证文凭样本模版(The University of Western Australia Diploma/Certificate of Degree)" src="uwa-diploma.jpg" />
 
 ## 2026版西澳大学学位证书：古典几何与现代安全工艺的视觉平衡
 
 西澳大学的官方学位证书采用标准的 **纵向（Portrait）A4 格式（210×297mm）**，整体底色呈现出沉稳、温润的象牙白色特种羊皮纸质感。
 
 在证书的视觉顶部，最为瞩目的是 UWA 经典的**彩色盾徽（University Crest）**。该纹章设计极其复杂精美：顶部为金色的皇冠，盾牌中央是一只代表西澳大利亚州的黑天鹅（Black Swan），两侧则环绕着盛开的金色袋鼠爪花（Kangaroo Paw）。校徽下方的缎带上印有拉丁文校训 —— *“Seek Wisdom”*（追求智慧）。整个校徽采用高精度的彩色套印与微浮雕工艺，在光线下呈现出厚重的层次感。
-
----
 
 ## UWA商科硕士（MBA-Global）文字排版与学术头衔字体艺术
 
@@ -25,8 +19,6 @@
 1. **授权声明层级：** 在校徽下方，首行为经典的 “The University of Western Australia”，随后是两行庄重的无衬线斜体字：*“In the name of the Senate and by authority of the same be it known that”*（经校教务会授权并以此证明）。
 2. **学生姓名：** 毕业生姓名占据证书的正中核心位置，以略大的衬线体（Serif Font）居中平铺，留白极其宽裕，给人以极强的仪式感。
 3. **学位头衔（核心视觉）：** 证书的视觉重心通常是授予的学位。例如图中所示的 **“Master of Business Administration - Global”**（全球工商管理硕士）。为了凸显学位的重要性，学校精选了古典而高雅的 **英文书法体（Script Font）**。这种优美的连笔手写风格与上下两端的印刷体形成强烈反差，极具现代设计的艺术美感，也直接彰显了 UWA 顶级商学院的全球化精英定位。
-
----
 
 ## 澳大利亚AQF框架认证与证书底部防伪签章布局
 
@@ -38,8 +30,6 @@
 | **中央激光防伪标签** | 位于正下方偏右，是一个高科技的银色全息激光镭射标识。内部包含一只立体折射的黑天鹅图案，随视线角度变化呈现七彩反光。 | 现代光学技术防伪，防止彩色复印 |
 | **核心官员联合签章** | 位于右下角，包含 **VICE-CHANCELLOR**（校长）与 **CHANCELLOR**（校监）的并列手写体电子签名，下方并排标有签发日期。 | 法律效力与官方学术背书 |
 | **AQF 国家框架声明** | 底部边缘印有一行精细的小字：*“The qualification is recognised within the Australian Qualifications Framework”*。 | 证明该学位完全符合澳大利亚高等教育国家认证框架标准 |
-
----
 
 ## 澳洲UWA毕业文凭全球认证：如何通过官方渠道核验真伪？
 
